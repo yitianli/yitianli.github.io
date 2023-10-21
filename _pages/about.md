@@ -20,6 +20,6 @@ Beyond theoretical questions, I also have a strong interest in applying economet
 - Delivered a series of lectures on conducting econometric analysis using Stata and R.
 - Supervised master's theses with topics covering the analysis of cryptocurrency prices, years of life lost to COVID-19, choice patterns in Lotto, and more.
 
-My academic background includes a master’s degree in economics from KU Leuven, a bachelor’s degree in economics from Peking University, and a bachelor’s degree in software engineering from Central South University. Additionally, in 2015 and 2016, I worked as a data scientist in both the finance and pharmaceutical industries. For more details, please refer to my [CV](http://yitianli.github.io/files/cv).
+My academic background includes a master’s degree in economics from KU Leuven, a bachelor’s degree in economics from Peking University, and a bachelor’s degree in software engineering from Central South University. Additionally, in 2015 and 2016, I worked as a data scientist in both the finance and pharmaceutical industries. For more details, please refer to my [CV](http://yitianli.github.io/files/CV.pdf).
 
 Apart from my research, I have a passion for CrossFit and mountain biking.
