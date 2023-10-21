@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome!
 
-I am a Ph.D. candidate in econometrics at KU Leuven, Belgium. My Ph.D. [research](http://yitianli.github.io/research) centers on a theoretical econometric challenge: the incidental parameter bias in panel data models. This issue was first identified by [Neyman and Scott](https://www.jstor.org/stable/1914288) in 1948 and continues to generate new questions and solutions even in the third decade of the 21st century. My contributions include:
+I am a Ph.D. candidate in econometrics at KU Leuven, Belgium. My Ph.D. [research](http://yitianli.github.io/research) centers on a theoretical econometric challenge: the incidental parameter bias in panel data models. This issue was first identified in [1948](https://www.jstor.org/stable/1914288) and continues to generate new questions and solutions even in the third decade of the 21st century. My contributions include:
 - Introducing nonparametric bootstrap methods to correct the incidental parameter bias in maximum likelihood and generalized method of moments estimators.
 - Providing various methods to correct the incidental parameter bias in the probit model.
 - Offering an analytical analysis of the incidental parameter bias in the Tobit model.
